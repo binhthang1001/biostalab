@@ -247,7 +247,13 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /project/
+category_archive:
+  type: liquid
+  path: /publication/
+category_archive:
+  type: liquid
+  path: /other/
 tag_archive:
   type: liquid
   path: /tags/
