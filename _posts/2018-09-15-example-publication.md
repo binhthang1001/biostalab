@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: A Publication
 categories: [publication]
 tags: [stata, whatever]

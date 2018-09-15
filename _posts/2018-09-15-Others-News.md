@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Others
 categories: [other]
 tags: [whatever, whichever]
