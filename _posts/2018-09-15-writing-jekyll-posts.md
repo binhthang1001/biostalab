@@ -2,7 +2,6 @@
 layout: posts
 title: A Project
 categories: [project]
-tags: [project, publication]
 ---
 
 This post will appear in Project menu as a collection AND the home page

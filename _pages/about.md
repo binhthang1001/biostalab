@@ -1,8 +1,11 @@
 ---
 permalink: /about/
+layout: single
+title: About us
 ---
 
-# This is first level
+
+> Nothing
 
 ## This is second level
 

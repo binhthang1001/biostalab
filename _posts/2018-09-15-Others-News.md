@@ -2,7 +2,6 @@
 layout: posts
 title: Others
 categories: [other]
-tags: [whatever, whichever]
 ---
 
 This post will not appear in Project/Publication menu as a collection BUT the home page

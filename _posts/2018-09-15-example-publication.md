@@ -2,7 +2,6 @@
 layout: posts
 title: A Publication
 categories: [publication]
-tags: [stata, whatever]
 ---
 
 This post will appear in Publication menu as a collection AND the home page
